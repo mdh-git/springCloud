@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/eurekaclient-8762" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekaclient-8763" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekaserver-8761" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../serice-feign" charset="UTF-8" />
+  </component>
+</project>
