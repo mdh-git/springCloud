@@ -12,6 +12,8 @@
         <option value="$PROJECT_DIR$/eurekaserver-8761/pom.xml" />
         <option value="$PROJECT_DIR$/eurekaclient-8762/pom.xml" />
         <option value="$PROJECT_DIR$/../serice-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/../hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/../service-zuul/pom.xml" />
       </list>
     </option>
   </component>
